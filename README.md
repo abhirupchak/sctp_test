@@ -1,2 +1,4 @@
 gcc client.c -o client
-./client
+
+./client try sudo,-lsctp tag
+
